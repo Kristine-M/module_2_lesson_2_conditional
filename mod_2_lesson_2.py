@@ -1,4 +1,4 @@
-#task 1
+#1.1
 number = int(input("Enter a number: "))
 
 if number > 0:
